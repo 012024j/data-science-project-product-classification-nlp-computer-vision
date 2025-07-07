@@ -2,13 +2,13 @@
 ## Structure du projet
 Le projet est organisé autour de deux volets complémentaires :
 
-## Classification à partir du texte :
+## 1. Classification à partir du texte :
 - Prétraitements classiques : nettoyage, lemmatisation, stopwords
 - Méthodes NLP basiques : BoW, TF-IDF + réduction de dimension (PCA, t-SNE, UMAP…)
 - Méthodes NLP avancées : Word2Vec, BERT, USE + clustering K-Means
 - Mesure de performance : ARI (Adjusted Rand Index)
 
-## Classification à partir de l’image :
+## 2. Classification à partir de l’image :
 - Prétraitement des images : conversion N&B, réduction de bruit, normalisation
 - Méthodes basiques : SIFT, ORB
 - Méthode avancée : CNN (Transfer Learning, VGG16)
