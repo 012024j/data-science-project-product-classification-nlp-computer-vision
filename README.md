@@ -1,6 +1,6 @@
 # Classification automatique d’articles e-commerce (Texte & Image)
 ## Structure du projet
-Le projet est organisé autour de deux volets complémentaires :
+Ce projet s'inscrit dans le cadre de la formation Data Scientist. Il est organisé autour de deux volets complémentaires :
 
 ## 1. Classification à partir du texte :
 - Prétraitements classiques : nettoyage, lemmatisation, stopwords
